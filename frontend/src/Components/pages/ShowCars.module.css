@@ -1,0 +1,20 @@
+
+.car-container {
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.car-text {
+    font-size: 18px;
+    font-style: italic;
+    font-weight: bolder;
+    /* margin-bottom: 10px; */
+    margin-top: 10px;
+}
+
+.car-model {
+    font-size: 20px;
+    font-weight: bold;
+}

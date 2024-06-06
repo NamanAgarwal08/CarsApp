@@ -1,0 +1,31 @@
+.car{
+    max-width: 700px;
+    margin:20px auto;
+    padding: 15px;
+    background-color: rgb(165, 213, 237);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+h3{
+    font-size: 18px;
+    margin-top:8px;
+}
+
+h3:before{
+    content:'~';
+}
+
+.car p{
+    font-family:cursive;
+    font-weight: bold;
+    font-size: 26px;
+    margin:0;
+    text-transform: uppercase;
+}
+.car button{
+    font-size: 15px;
+    background-color: aliceblue;
+    padding:10px;
+}

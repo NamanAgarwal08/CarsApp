@@ -1,0 +1,36 @@
+.new-car-form{
+    padding:16px;
+    background-color: linen;
+    width:360px;
+    box-shadow: 2px 3px 4px black;
+    border-radius: 5px;
+    margin:30px auto;
+}
+
+.new-car-form input{
+    box-sizing: border-box;
+    margin: 5px;
+    width:100%;
+}
+
+.new-car-form input.label{
+    display: block;
+    margin:5px;
+}
+.new-car-form textarea{
+    box-sizing: border-box;
+    width:100%;
+}
+.new-car-form textarea:focus{
+    outline: none;
+}
+
+.new-car-form button{
+    margin-top: 5px;
+    background-color: lightblue;
+    font-size: medium;
+    padding:8px 15px;
+    cursor:pointer;
+    border-radius:5px;
+    border:none;
+}
